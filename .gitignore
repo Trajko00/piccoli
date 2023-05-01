@@ -34,3 +34,4 @@
 # Build folder
 build/
 README.md
+CMakeFiles/
