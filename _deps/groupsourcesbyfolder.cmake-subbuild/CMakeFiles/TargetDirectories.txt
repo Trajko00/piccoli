@@ -1,3 +1,0 @@
-/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/CMakeFiles/groupsourcesbyfolder.cmake-populate.dir
-/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/CMakeFiles/edit_cache.dir
-/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/CMakeFiles/rebuild_cache.dir
