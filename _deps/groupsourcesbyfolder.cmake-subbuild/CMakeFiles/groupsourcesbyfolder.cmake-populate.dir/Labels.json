@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/CMakeFiles/groupsourcesbyfolder.cmake-populate"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/CMakeFiles/groupsourcesbyfolder.cmake-populate.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/CMakeFiles/groupsourcesbyfolder.cmake-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-build.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-download.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-install.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-test.rule"
+		},
+		{
+			"file" : "/Users/tryk0/Downloads/final-project/_deps/groupsourcesbyfolder.cmake-subbuild/groupsourcesbyfolder.cmake-populate-prefix/src/groupsourcesbyfolder.cmake-populate-stamp/groupsourcesbyfolder.cmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"groupsourcesbyfolder.cmake-populate"
+		],
+		"name" : "groupsourcesbyfolder.cmake-populate"
+	}
+}
